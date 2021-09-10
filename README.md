@@ -1,7 +1,7 @@
 # Language and tools:
-- 💻 HTML | CSS | JavaScript | ReactJS | Express
-- 🛢 MongoDB | Mongoose
-- ⚙️ Visual Studio Code | Git | Insomnia
+- ### 💻 HTML | CSS | JavaScript | ReactJS | Express
+- ### 🛢 MongoDB | Mongoose
+- ### ⚙️ Visual Studio Code | Git | Insomnia
 
 <div>
   <a href="https://github.com/Amir258"/>
