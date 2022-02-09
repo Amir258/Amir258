@@ -1,6 +1,6 @@
 # Language and tools:
 - ### 💻 HTML | CSS | JavaScript | ReactJS | Express
-- ### 🛢 MongoDB | Mongoose
+- ### 🛢 MongoDB | Mongoose | PostgresSQL | Sequelize
 - ### ⚙️ Visual Studio Code | Git | Insomnia
 
 <div>
